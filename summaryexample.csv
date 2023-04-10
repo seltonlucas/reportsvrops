@@ -1,0 +1,8 @@
+"","Metrics","Datacenter"
+Summary|Parent Datacenter,"-","SPCTP-RC-DC01"
+CPU|Total Capacity (GHz),"596.6","-"
+CPU|Usage (GHz),"3.6","-"
+Memory|Total Capacity (GB),"1,040","-"
+Memory|Utilization (GB),"86.35","-"
+Disk Space|Provisioned Space for VM (GB),"2,945.98","-"
+Disk Space|Virtual Machine used (GB),"2,940.25","-"
