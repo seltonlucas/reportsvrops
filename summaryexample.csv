@@ -1,6 +1,5 @@
 ﻿"","Resumo","Datacenter"
 Summary|Parent Datacenter,"-","SPCTP-RC-DC01"
-Summary|Parent Cluster,"-","SPCTP-TKG-SRIOV-CL02"
 CPU|Total Capacity (GHz),"688.38","-"
 CPU|Usage (GHz),"83.67","-"
 Memory|Total Capacity (GB),"1,200","-"
