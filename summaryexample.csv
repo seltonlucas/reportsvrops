@@ -1,8 +1,11 @@
 ﻿"","Resumo","Datacenter"
 Summary|Parent Datacenter,"-","SPCTP-RC-DC01"
+Summary|Parent Cluster,"-","SPCTP-TKG-SRIOV-CL02"
 CPU|Total Capacity (GHz),"688.38","-"
-CPU|Usage (GHz),"83.67","-"
+CPU|Usage (GHz),"84.66","-"
 Memory|Total Capacity (GB),"1,200","-"
-Memory|Utilization (GB),"152.02","-"
-Disk Space|Provisioned Space for VM (GB),"4,679.61","-"
-Disk Space|Virtual Machine used (GB),"3,749.16","-"
+Memory|Utilization (GB),"145.25","-"
+Disk Space|Provisioned Space for VM (GB),"4,689.75","-"
+Disk Space|Virtual Machine used (GB),"2,548.86","-"
+
+16/06/2023 10:09
